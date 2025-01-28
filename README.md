@@ -36,7 +36,7 @@ This project focuses on analyzing road accident data to identify key trends, hig
   - Combined SQL and Excel outputs for dynamic visualizations.
 
 ### Live Project:  
-View Detailed Project: (https://shorturl.at/NilpW)
+View Detailed Project: https://shorturl.at/NilpW
 
 ### Screenshots:
 ## WELCOME PAGE
