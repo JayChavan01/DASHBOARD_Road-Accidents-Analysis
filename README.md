@@ -39,7 +39,7 @@ This project focuses on analyzing road accident data to identify key trends, hig
 View Detailed Project: https://shorturl.at/NilpW
 
 ### Screenshots:
-## WELCOME PAGE
+## HOME PAGE
 ![S-1](https://github.com/user-attachments/assets/185d787b-f6cc-434a-a1da-eb3841a04a73)
 
 ## DASHBOARD
